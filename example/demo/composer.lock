@@ -1,0 +1,42 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "04f1b227865d790359b23dedd4f0645d",
+    "packages": [
+        {
+            "name": "suyaoli/php-common-lib-demo",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://suyaoli@github.com/suyaoli/php-common-lib-demo.git",
+                "reference": "0948efab0869eb2fae001bb3664ec2bd47128a05"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Suyaoli\\PhpCommonLibDemo\\": "src/"
+                }
+            },
+            "authors": [
+                {
+                    "name": "suyaoli",
+                    "email": "lisy5113@qq.com"
+                }
+            ],
+            "time": "2019-02-20T10:05:13+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "suyaoli/php-common-lib-demo": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
