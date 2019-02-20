@@ -1,0 +1,16 @@
+{
+    "name": "suyaoli/php-common-lib-demo",
+    "type": "library",
+    "authors": [
+        {
+            "name": "suyaoli",
+            "email": "lisy5113@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Suyaoli\\PhpCommonLibDemo\\": "src/"
+        }
+    }
+}

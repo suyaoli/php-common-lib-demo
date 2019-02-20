@@ -1,0 +1,19 @@
+{
+    "name": "suyaoli/demo",
+    "type": "project",
+    "authors": [
+        {
+            "name": "suyaoli",
+            "email": "lisy5113@qq.com"
+        }
+    ],
+    "require": {
+        "suyaoli/php-common-lib-demo":"dev-master"
+    },
+    "repositories": [
+        {
+            "type": "git",
+            "url": ""
+        }
+    ]
+}
