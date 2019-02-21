@@ -11,4 +11,9 @@ class Calculator{
         
     }
 
+    public function selfSubtract($i){
+
+        return $i-1;
+    }
+
 }
